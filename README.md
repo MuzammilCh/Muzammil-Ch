@@ -1,4 +1,4 @@
-👋 Hi, I’m @asharhb
-👀 I’m interested in Developing Web Apps
-🌱 I’m currently learning Python
-📫 Reach me at asharbhatti105@gmail.com
+👋 Hi, I’m @Muzammil Ch
+👀 I’m interested in Developing Web Development
+🌱 I’m currently learning WordPress
+📫 Reach me at muzammilch617@gmail.com
